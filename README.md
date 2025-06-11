@@ -20,7 +20,7 @@ Key features include:
 ---
 
 ## 📽️ Demo Video
-[![JMS ActiveMQ Project Demo](https://github.com/chamikathereal/JMS-ActiveMQ/blob/main/JMS-ActiveMQ.png)](https://youtu.be/pc15pltfXDs)
+[![Distributed Online Auction System Project Demo](https://github.com/chamikathereal/Distributed-Online-Auction-System/blob/main/web/src/main/webapp/assets/resources/Distributed-Online-Auction-System.png)](https://youtu.be/NnkKxz5KqjE)
 
 ---
 
